@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "E:/- Cloud/Dropbox/Kicad/Projetos/Referencia Fixa/v02 - artigo/Ref_fixa_v02.sch")
-    (date "02/09/2016 23:21:52")
+    (date "07/09/2016 11:12:45")
     (tool "Eeschema 4.0.3-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -118,7 +118,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 564F6B60))
     (comp (ref R7)
-      (value 330)
+      (value 100)
       (footprint Resistors_ThroughHole:Resistor_Horizontal_RM10mm)
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
