@@ -52,3 +52,8 @@ There is a serie of 4 articles talking about this project.
 - [Article 2 (The power supply)](https://www.embarcados.com.br/desenvolvendo-a-fonte-para-referencia-de-precisao/)
 - [Article 3 (The voltage reference)](https://www.embarcados.com.br/referencia-de-tensao-da-referencia-de-precisao/)
 - [Article 4 (The results)](https://www.embarcados.com.br/resultados-referencia-de-precisao/)
+
+
+### DISCLAIMER
+
+This project is provided 'as is' with no explicit or implied warranties in respect of its properties, including, but not limited to, correctness and/or fitness for purpose.
